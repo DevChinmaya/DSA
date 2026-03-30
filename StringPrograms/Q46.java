@@ -46,8 +46,6 @@ public class Q46 {
     // }
 }
 
-
-
     //Logically not correct because if there are duplicate characters in string then it will not work. 
     // public static void main(String[] args) {
     //     String s1="listen";
