@@ -30,6 +30,7 @@ public class MinSwapsToArrangeEvenBeforeOdd {
         System.out.println("Minimum swaps required: "+swap);
     }
 }
+
     //Wrong program
     // public static void main(String[] args) {
     //     int[] a={2,1,4,3,6,5,7};
