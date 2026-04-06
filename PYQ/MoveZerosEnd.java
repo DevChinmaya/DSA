@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 public class MoveZerosEnd {
     public static void main(String[] args) {
         int a[] = {3, 0, 1, 2, 0, 3, 0, 12};

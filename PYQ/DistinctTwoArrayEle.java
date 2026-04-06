@@ -51,7 +51,6 @@ public class DistinctTwoArrayEle {
                 res[idx++]=b[j];
                 j++;
             }
-            
         }
         System.out.println(Arrays.toString(res));
         // for(int k=0; k<res.length; k++){

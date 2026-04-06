@@ -22,5 +22,5 @@ public class SumUntilSingleDigit {
             n/=10;
         }
         return sum;
-    }
+    }            
 }
