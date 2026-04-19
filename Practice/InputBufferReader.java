@@ -7,7 +7,7 @@ public class InputBufferReader {
         String s=bf.readLine();
         char st[]=s.toCharArray();
         String k=bf.readLine();
-        int key=Integer.parseInt(k);
+        int key=Integer.parseInt(s);
         int count=0;
         for(int i=0; i<st.length; i++){
             if(st[i]-'0' == key) count++;
@@ -16,3 +16,13 @@ public class InputBufferReader {
         System.out.println(count);
     }
 }
+
+//BufferedReader bf=new BufferedReader(new InputStreamReader(System.in));
+
+
+
+// BufferedReader bf=new BufferedReader(new InputStreamReader(System.in));
+//         String s=bf.readLine();
+//         char st[]=s.toCharArray();
+//         String k=bf.readLine();
+//         int key=Integer.parseInt(k);
